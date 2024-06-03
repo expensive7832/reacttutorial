@@ -1,0 +1,7 @@
+.banner{
+    background-image: url(./../images/christina-2x.jpg);
+    height: 70vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
